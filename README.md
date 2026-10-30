@@ -5,7 +5,9 @@ Downloads of Block Party Burgers for playing together. Just the game, no code.
 ## Get the game
 
 1. Open the **[newest build](https://github.com/citrus-lemonjelly/block-party-builds/releases/latest)**
-   and download `BlockPartyBurgers-windows.zip` under **Assets**.
+   and download `BlockPartyBurgers-windows.zip` under **Assets**, or download it straight away:
+   [BlockPartyBurgers-windows.zip](https://github.com/citrus-lemonjelly/block-party-builds/releases/latest/download/BlockPartyBurgers-windows.zip)
+   (always the newest build).
 2. Unzip the whole folder (replace any old copy). Keep the two `.dll` files next to
    `BlockPartyBurgers.exe`.
 3. Open Steam first, then the game.
